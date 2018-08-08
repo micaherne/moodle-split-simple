@@ -1,0 +1,16 @@
+{
+    "name": "vas07101/moodle-split-simple",
+    "require": {
+        "composer/semver": "^1.4",
+        "symfony/process": "^4.1",
+        "symfony/filesystem": "^4.1",
+        "psr/log": "^1.0",
+        "monolog/monolog": "^1.23"
+    },
+    "authors": [
+        {
+            "name": "Michael Aherne",
+            "email": "michael.aherne@strath.ac.uk"
+        }
+    ]
+}
